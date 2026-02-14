@@ -53,12 +53,12 @@ Discover our exquisite Elegant Luxe Jewelry collection, meticulously designed to
 <div class="products">
   <div class="product">
     <h3>Golden Heart Necklace</h3>
-    <p>K350</p>
+    <p>K120</p>
     <button>Order via WhatsApp</button>
   </div>
 
   <div class="product">
-    <h3>Silver Charm Bracelet</h3>
+    <h3>Gold Charm Bracelets Set</h3>
     <p>K280</p>
     <button>Order via WhatsApp</button>
   </div>
